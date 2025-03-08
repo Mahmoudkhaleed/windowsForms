@@ -1,0 +1,11 @@
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.csproj.AssemblyReference.cache
+E:\Programming\fundamentals of programming\hadhood\FormControl\bin\Debug\FormControl.exe.config
+E:\Programming\fundamentals of programming\hadhood\FormControl\bin\Debug\FormControl.exe
+E:\Programming\fundamentals of programming\hadhood\FormControl\bin\Debug\FormControl.pdb
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.Form1.resources
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.Form2.resources
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.Properties.Resources.resources
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.csproj.GenerateResource.cache
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.csproj.CoreCompileInputs.cache
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.exe
+E:\Programming\fundamentals of programming\hadhood\FormControl\obj\Debug\FormControl.pdb
